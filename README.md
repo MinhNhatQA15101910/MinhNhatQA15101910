@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhnhatqa15101910&label=Profile%20views&color=0e75b6&style=flat" alt="minhnhatqa15101910" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhnhatqa15101910" alt="minhnhatqa15101910" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhnhatqa15101910&theme=onedark" alt="minhnhatqa15101910" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, ASP.NET Core and Java.**
 
